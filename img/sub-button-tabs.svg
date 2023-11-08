@@ -1,0 +1,17 @@
+<svg width="60" height="19" viewBox="0 0 60 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="60" height="19" fill="#BFBFBF"/>
+<g id="Desktop - 32" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="5446" transform="translate(-986 -4411)" fill="#F8F3EF"/>
+<path id="Rectangle 575" d="M1 18H-836C-852.569 18 -866 31.4315 -866 48V414C-866 430.569 -852.569 444 -836 444H304C320.569 444 334 430.569 334 414V48C334 31.4315 320.569 18 304 18H211.528H150.292H89.0562H59" stroke="url(#paint0_linear_0_1)"/>
+<path id="Polygon 4" d="M59.4444 18.25L31.516 1.8884C30.5795 1.33974 29.4196 1.33974 28.4831 1.8884L0.554688 18.25" stroke="#D19D76"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_1" x1="-866" y1="235.734" x2="334.124" y2="242.643" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E2AE80"/>
+<stop offset="1" stop-color="#CC9872"/>
+</linearGradient>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="5446" fill="white" transform="translate(-986 -4411)"/>
+</clipPath>
+</defs>
+</svg>
